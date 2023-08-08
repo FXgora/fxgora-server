@@ -1,5 +1,5 @@
 # Artion-Server
-Code for server side deployment of Fantom Artion Marketplace.
+Code for server side deployment of FXgora Marketplace.
 
 ## Project Setup
 ```
